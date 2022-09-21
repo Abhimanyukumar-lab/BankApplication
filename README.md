@@ -37,7 +37,7 @@ ally for each account.
 He also does the transfer of balances if there are requests for it.
 Your task is to help this poor employee out by creating a simple admin banking app
 
-[Live demo of Banking App](https://github.com/Abhimanyukumar-lab)
+[Live demo of Banking App](https://github.com/Abhimanyukumar-lab/BankApplication.git)
 
 ## Objective
 A banking app created with ReactJS.
@@ -58,4 +58,4 @@ email: client@client.com
 password: abc123
 ```
 
-[Live demo of Banking App](https://github.com/Abhimanyukumar-lab)
+[Live demo of Banking App](https://github.com/Abhimanyukumar-lab/BankApplication.git)
